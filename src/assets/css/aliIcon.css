@@ -1,0 +1,19 @@
+
+
+@font-face {
+  font-family: 'iconfont-chat';  /* project id 341696 */
+  src: url('//at.alicdn.com/t/font_u6m40kcoule1xlxr.eot');
+  src: url('//at.alicdn.com/t/font_u6m40kcoule1xlxr.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_u6m40kcoule1xlxr.woff') format('woff'),
+  url('//at.alicdn.com/t/font_u6m40kcoule1xlxr.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_u6m40kcoule1xlxr.svg#iconfont') format('svg');
+}
+
+.iconfont-chat {
+  font-family:"iconfont-chat" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-stroke-width: 0.2px;
+  -moz-osx-font-smoothing: grayscale;
+}
